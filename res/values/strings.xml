@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlacesMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_places">Places</string>
+    <string name="menu1">Scan Bar Code</string>
+    <string name="menu2">Restart Hunt</string>
+
+</resources>
